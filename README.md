@@ -1,2 +1,2 @@
 # pandas-challenge
-Graphing information using pandas
+Using large amounts of data to create datasets, charts and lists
